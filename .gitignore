@@ -1,0 +1,6 @@
+*.csv
+results/
+
+!Reallygooddata
+
+
